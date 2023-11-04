@@ -1,0 +1,7 @@
+Info: Processing symbol 'H1:ATtiny104XNANOaddon:2,8-PAD'.
+Info: Processing symbol 'H2:ATtiny104XNANOaddon:2,8-PAD'.
+Info: Processing symbol 'JP1:ATtiny104XNANOaddon:1X12_NO_SILK'.
+Info: Processing symbol 'JP2:ATtiny104XNANOaddon:1X12_NO_SILK'.
+
+
+Info: Total warnings: 0, errors: 0.

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ATtiny104XNANOaddon-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ATtiny104XNANOaddon-eagle-import.kicad_sym")(options "")(descr ""))
+)
